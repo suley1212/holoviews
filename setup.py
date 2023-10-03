@@ -41,6 +41,7 @@ extras_require['tests_core'] = [
     'dash >=1.16',
     'codecov',
     'ipython >=5.4.0',
+    'contourpy',
 ]
 
 # Optional tests dependencies, i.e. one should be able
